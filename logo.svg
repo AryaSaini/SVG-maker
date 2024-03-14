@@ -1,0 +1,6 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+              <polygon points="150,10 250,190 50,190" fill="yellow" />
+              <g transform="translate(150,180)">
+                <text y="-60" font-size="60" text-anchor="middle" fill="red">as</text>
+              </g>
+            </svg>
